@@ -30,7 +30,7 @@ export const API_MODEL_MAP: Record<ProviderOption, Record<string, string>> = {
     'flux-1-krea': 'black-forest-labs/FLUX.1-Krea-dev',
     'flux-1': 'MusePublic/489_ckpt_FLUX_1',
     'deepseek-3_2': 'deepseek-ai/DeepSeek-V3.2', // text
-    'qwen-image-edit': 'Qwen/Qwen-Image-Edit-2509', // edit
+    'qwen-image-edit': 'Qwen/Qwen-Image-Edit-2511', // edit
   }
 };
 
